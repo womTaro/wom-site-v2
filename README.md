@@ -1,6 +1,6 @@
 # Astro Starter Kit: Minimal
 
-20240219
+kore
 
 
 ```sh

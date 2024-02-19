@@ -11,14 +11,12 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    environment: deployment
     strategy:
       matrix:
         node-version: [20]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
+    environment: test # Environment の名前を指定
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}

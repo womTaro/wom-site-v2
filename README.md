@@ -1,6 +1,6 @@
 # Astro Starter Kit: Minimal
 
-kore
+koretest
 
 
 ```sh

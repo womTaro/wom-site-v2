@@ -1,6 +1,6 @@
 # Astro Starter Kit: Minimal
 
-test1233
+XXXXXX
 
 
 ```sh
